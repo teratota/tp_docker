@@ -1,1 +1,3 @@
-# tp_docker
+tp_docker
+
+fichier docker-compose + Dockerfile
